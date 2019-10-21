@@ -1,0 +1,14 @@
+.header-container {
+    background-image: url('/assets/images/background.png');
+    color: white;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+.header-h1 {
+    font-size: 60px;
+}
+
+/* .header-h2 {
+    
+} */ 
